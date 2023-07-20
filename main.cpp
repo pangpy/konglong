@@ -4,7 +4,7 @@ int WinMain()
 {
     sf::RenderWindow window(sf::VideoMode(800, 600), "Dinosaur vs Wolves");
 
-    // 创建恐龙的精灵对象6
+    // 创建恐龙的精灵对象7
     sf::Texture dinoTexture;
     dinoTexture.loadFromFile("dino.jpg");
     sf::Sprite dinoSprite(dinoTexture);
